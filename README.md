@@ -6,7 +6,7 @@ It will Follow Unfollow Some Top Pages within
 a Specified Interval of Time
 Which leads in Hiking of Your Followers Range.
 
-> Coded by : Cyber Jeevi (@cyberjeevi)
+> Coded by : Cyber Jeevi (@naseef_x95__)
 
 > Thanks to : Uday Patel  (@thelinuxchoice) for Login Codes.
 
